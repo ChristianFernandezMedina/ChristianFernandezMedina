@@ -10,7 +10,7 @@ This dashboard was built with the purpose of monitoring the demand and team augm
 
 ### Mapa funcional Datio 
 This dashboard was built with the purpose of centralizing all the repositories hosted in Datio and show important KPIs. 
-![](Mapa Funcional Datio.PNG)
+![](Mapa_Funcional_Datio.PNG)
 
 
 <!--
