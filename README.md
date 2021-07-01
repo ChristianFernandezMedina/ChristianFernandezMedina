@@ -1,5 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 This is my portfolio where I show some of the most recent dashboards that I have created and been working on. Please take into consideration that all the data displayed is dummy. 
+### Seguimiento T-CAMBIO
+This dashboard is built with the purpose of monitoring the operations of exchange rate perfomed by BBVA's clients in PERU: 
+![](Seguimiento_T-CAMBIO.pdf)
+
+
 
 <!--
 **ChristianFernandezMedina/ChristianFernandezMedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
